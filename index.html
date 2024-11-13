@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cartas Contra a Humanidade</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Cartas Contra a Humanidade</h1>
+    <p>Um jogo de humor negro para jogar com amigos!</p>
+    <button onclick="iniciarJogo()">Iniciar Jogo</button>
+    
+    <div id="areaJogo" style="display:none;">
+        <h2>Turno de <span id="czar"></span></h2>
+        <p><b>Carta preta:</b> <span id="cartaPreta"></span></p>
+        <div id="respostas"></div>
+        <button onclick="proximoTurno()">Próximo Turno</button>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>
