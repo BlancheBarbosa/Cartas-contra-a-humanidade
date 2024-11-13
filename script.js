@@ -18,8 +18,7 @@ let cartasPretas = [
 "Eu estou_______________ "
 "Me pergunte qualquer coisa."
 "Qual é o prazer secreto do Batman?"
-"Administração de Segurança dos Transportes agora proíbe 
-em aviões."
+"Administração de Segurança dos Transportes agora proíbe em aviões."
 "Próximo livro de J.K. Rowling: Harry Potter e a câmara de__________"
 "É isso aí, eu matei ________________Você quer saber como?"
 "Para, nÃo vai naquele banheiro. Tem __________________"
